@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Артефакты обучения (живут на Google Drive, не в репо)
+*.pt
+*.pth
+*.pkl
+checkpoints/
